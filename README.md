@@ -8,7 +8,7 @@ Implemented using
 - Groovy
 - Elastic Search
 
-I used the following 5 models for calculating scores.
+I used the following 5 models for calculating scores(using custom groovy scripts).
 - Okapi TF
 - TF-IDF
 - Okapi BM
