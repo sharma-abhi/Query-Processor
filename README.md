@@ -7,7 +7,8 @@ Implemented using
 - Python
 - Groovy
 - Elastic Search
-We use the following 5 models for calculating scores.
+
+I used the following 5 models for calculating scores.
 - Okapi TF
 - TF-IDF
 - Okapi BM
